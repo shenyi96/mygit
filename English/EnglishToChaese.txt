@@ -1,0 +1,131 @@
+{
+a:
+	{
+		amuse : "逗...乐,给...娱乐",amaze : "使惊奇",ambulance : "救护车",amongst : "在..之中",
+		act : "行为,行动",academic : "学院的,学术的",alarm : "惊恐,忧虑;警报",
+		a : "一个",address : "地址",adequate : "足够的,可以的",alternative : "替换物,取舍,抉择",
+		an : "一个",adjust : "调整,调节,校正",administration : "管理的,管理部门",
+		apple : "苹果",admission : "允许进入,承认",admit : "承认,准许",altitude : "高度,高处",
+		abandon : "丢弃,放弃",advance : "前进,提高",advanced : "先进的,高级的",aluminium : "铝",
+		aboard : "上船,在船上",advenyure : "冒险,惊险",advisable : "明智的,可取的",
+		absolute : "绝对的",affair : "事情,事件",affect : "影响,感动",affection: "慈爱,爱,爱慕",
+		absolutely : "完全的,绝对的",afford : "担负得起..,提供",afterward : "后来,以后",
+		absorb : "吸收,使专心",age : "年龄,变老",aggressive : "侵略的,好斗的",aircraft : "飞机,飞行器",
+		abstract : "摘要",alcohol : "酒精,乙醇",alike : "同样的,相同的",alloy: "合金;成色",
+		abundant : "丰富的,大量的",alphabet : "字母表,字母系统",accustomed : "惯常的,习惯的",
+		abuse : "滥用,虐待",alter : "改变,变更",academic : "学院的;学术的",acid : "酸的",
+		acquaintance : "认识,了解,熟人",accelerate : "加快,促进",access : "接近,通道,入口",
+		acquire : "取得,获得,学到",accidental : "偶然的,非本质的",accommodate : "招待设备,预定铺位",
+		acre : "英亩",accompany : "陪伴,陪同,伴随",accomplish : "达到,完成",accurate : "准确的",
+		adapt : "使适应,改编",accordance : "一致,和谐,授予",accordingly : "因此,所以,照着",
+		addition : "加,加法",account : "记述,解释,账目",accumulate : "积累,堆积",accuracy : "准确",
+		additional : "附加的,追加的",analyse : "分析",
+	},
+b:
+	{
+		black : "黑色",banana : "香蕉",
+	},
+c:
+	{
+		comment     : "评论,意见,体现,写照",
+		cliff       : "悬崖,峭壁",
+		credit      : "赊购,结余,贷记,赞扬",
+	},
+d:
+	{
+		direct      : "直接的",
+		
+	},
+e:
+	{
+		english     : "英语",
+	},
+f:
+	{
+		fill        : "充满,填充",
+	},
+g:
+	{
+		green       : "绿色,青春",
+	},
+h:
+	{
+		he          : "他的",
+		her         : "她的",
+	},
+i:
+	{
+		incorrect   : "不正确的",
+	},
+j:
+	{
+		just        : "刚刚",
+	},
+k:
+	{
+		kill        : "杀死",
+	},
+l:
+	{
+		library       : "图书馆",
+	},
+m:
+	{
+		my          : "我的",
+	},
+n:
+	{
+		northwest   : "位于西北的",
+	},
+o:
+	{
+		open        : "打开",
+	},
+p:
+	{
+		plate       : "电镀,盘子,盆子,金属",
+		partial     : "部分的,偏爱的",
+	},
+q:
+	{
+		quit        : "退出",
+	},
+r:
+	{
+		red         : "红色",
+	},
+s:
+	{
+		salary      : "薪水",
+	},
+t:
+	{
+		translate   : "翻译,转变,变化,说明,造成,相当于",
+	},
+u:
+	{
+		use         : "使用",
+	},
+v:
+	{
+		volume      : "体积,容量",
+		value       : "值,重要性,有用性",
+	},
+w:
+	{
+		write       : "写",
+	},
+x:
+	{
+		
+	},
+y:
+	{
+		you         : "你的",
+	},
+z:
+	{
+		zoom        : "快速移动,变焦,疾驰的声音",
+	},
+} 
+
